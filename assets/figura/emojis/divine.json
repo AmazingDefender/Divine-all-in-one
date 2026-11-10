@@ -100,7 +100,7 @@
         "\uE05B": ["halo_gn", "halo_gnui", "halo_green_neon"],
         "\uE05C": ["halo_fash", "halo_fashion", "halo_fashionbeard"],
         "\uE05D": ["halo_vyx", "halo_vyxey"],
-        "\uE05E": [],
+        "\uE05E": ["halo_stevemine26","halo_stevemine","halo_stev26","halo_stev","halo_s26"],
         "\uE05F": [],
 
         "\uE060": [],
@@ -150,8 +150,8 @@
         "\uE08A": ["moustache", "stache"],
         "\uE08B": ["monumenta", "logo_monumenta"],
         "\uE08C": ["toaster"],
-        "\uE08D": [],
-        "\uE08E": [],
+        "\uE08D": ["friend"],
+        "\uE08E": ["portal_green","portal_time"],
         "\uE08F": [],
 
         "\uE090": ["@mango", "@mangodev"],
